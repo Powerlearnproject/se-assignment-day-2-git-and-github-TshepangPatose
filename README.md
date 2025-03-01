@@ -42,6 +42,14 @@ Advantages- Any developer can collaborate
           - The project's visibility can increase
           - Public repositories get free hosting on GitHub
 Disadvantages- Collaborations cannot be controlled, which increases the risks of having spam collaborations
+             - The codes are at risk of being plagiarized/unauthorized use
+
+Private repository- It is confidential, only the owner and invited collaborators can access it
+Advantages- Only authorized developers can access it, which is good for confidential and sensitive projects
+          - Collaborations are controlled, which minimized the risks of spam collaborators
+          - It is ideal for projects that are not yet ready to be for public release
+Disadvantages- Cannot have external contributions and community feedback
+             - External developers cannot collaborate if they do not have the invite
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
