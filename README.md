@@ -3,11 +3,45 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
+**Fundamental concepts of version control**
+Version control is a system that keeps track of the changes made in a file over some time. It allows users to change to previous versions, collaborations and keeps the history of changes made.
+**Why Github is a popular tool for merging versions of a code**
+-It has collaboration features, where developers can work together on a project
+-It backs up the repos in a cloud to prevent loss of projects
+**How version control helps maintain project integrity**
+-It records each change made in order to understand why the modification was made.
+-It allows developers to collaborate on the same project
+-It allows developers to revert to a stable version of the code, if a bug or some issue arises
+
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
+Step 1-Sign iinto GitHub account
+Step 2-Create new repository (Click + for new repository, then click new)
+Step 3-Write a repository name, add its description, then choose its visibility (private or public)
+Step 4-Click create repository to finalize
+
+**Decisions**
+- Choose the visibility to be private/public
+-Set the collaboration permission
+-Choose if you want to share the project openly
+
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+-It is the summary of what the project is all about
+-It explains the installation, configuration and the usage of the project
+-Gives guidelines for interested collaborators
+**What should be included**
+-The title and description of the project
+-Installation and set up instructions
+-User guide
+-Collaborator's guidelines
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+
+Public repository- Anyone on GitHub can view, fork and clone the repository
+Advantages- Any developer can collaborate
+          - The project's visibility can increase
+          - Public repositories get free hosting on GitHub
+Disadvantages- Collaborations cannot be controlled, which increases the risks of having spam collaborations
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
