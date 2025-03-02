@@ -70,8 +70,30 @@ Branching inGit allows separate project versions to be created and allow develop
 -Different features of the code can be attended to without affecting the main code
 -Different tasks can be worked on independently
 -Code can be reviewed before integration
+**Branching workflow**
+1. One should check the current branch they are working on
+2. Create a new branch
+3. Move to new branch
+4. Modify and commit
+5. Push branch to GitHub
+**Merging**
+6. Switch to main branch before merging
+7. Merge changes from feature branch into main
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+
+Pull request feature allows review, discussion, proposal from developers before merging them into the main branch.
+
+**Facilitation of collaborations**
+Code review and feedback- Collaborators can check the proposed changes, fix bugs and suggest improvements
+Discussion and documentations- PR allows discussion of changes in code and documented reasons behind them
+Safe merging- PR test the changes, review and approve them before being merged into the main branch
+**Steps to create and merge PR**
+1. Create feature branch
+2. Push branch into GitHub
+3. Open a PR on GitHub
+4. Code can be reviewed and discussed
+5. Approval then merge the PR
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
