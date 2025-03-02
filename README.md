@@ -97,6 +97,17 @@ Safe merging- PR test the changes, review and approve them before being merged i
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
+Forking- Creating a separate copy of someone's repository in your GitHub account. The modification can be done without changing the original project.
+**Diffrence of forking and cloning**
+Forking- Creates an independent copy of someone's repository on GitHub
+       - Can be updated from original repository using upstream sync.
+Cloning- Creates copy of a repository on a computer
+       - Cannot be updated from original repository unless manually.
+**Scenareos where forking will be useful**
+- When one wants to experiment the code without affecting the original one.
+- One can fork the original repository that is no longer maintained and continue developing it independently.
+
+
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
